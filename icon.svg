@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1 1 26 26">
+  <!-- The MTUS+ mark (components/logo.tsx, LogoMark) as the site icon. Colours are the
+       series 1-6 and ink values from app/globals.css, light and dark. -->
+  <style>
+    circle { fill: none; stroke-width: 4; }
+    .s1 { stroke: #2a78d6; } .s2 { stroke: #eb6834; } .s3 { stroke: #1baf7a; }
+    .s4 { stroke: #eda100; } .s5 { stroke: #e87ba4; } .s6 { stroke: #008300; }
+    path { stroke: #1d1d1f; }
+    @media (prefers-color-scheme: dark) {
+      .s1 { stroke: #3987e5; } .s2 { stroke: #d95926; } .s3 { stroke: #199e70; }
+      .s4 { stroke: #c98500; } .s5 { stroke: #d55181; }
+      path { stroke: #f5f5f7; }
+    }
+  </style>
+  <g transform="rotate(-90 14 14)">
+    <circle class="s1" cx="14" cy="14" r="10" stroke-dasharray="19.844 62.832" stroke-dashoffset="0" />
+    <circle class="s2" cx="14" cy="14" r="10" stroke-dasharray="4.136 62.832" stroke-dashoffset="-20.944" />
+    <circle class="s3" cx="14" cy="14" r="10" stroke-dasharray="17.226 62.832" stroke-dashoffset="-26.18" />
+    <circle class="s4" cx="14" cy="14" r="10" stroke-dasharray="5.445 62.832" stroke-dashoffset="-44.506" />
+    <circle class="s5" cx="14" cy="14" r="10" stroke-dasharray="8.063 62.832" stroke-dashoffset="-51.051" />
+    <circle class="s6" cx="14" cy="14" r="10" stroke-dasharray="1.518 62.832" stroke-dashoffset="-60.214" />
+  </g>
+  <path d="M14 10.2v7.6M10.2 14h7.6" stroke-width="1.8" stroke-linecap="round" />
+</svg>

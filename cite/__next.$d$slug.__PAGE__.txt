@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[62988,["/mtus-plus-beta/_next/static/chunks/121nt-2o0q7xz.js","/mtus-plus-beta/_next/static/chunks/10yicgvhds2d0.js"],"HashOpener"]
+3:I[22016,["/mtus-plus-beta/_next/static/chunks/121nt-2o0q7xz.js","/mtus-plus-beta/_next/static/chunks/10yicgvhds2d0.js"],""]
+4:I[97367,["/mtus-plus-beta/_next/static/chunks/121nt-2o0q7xz.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/mtus-plus-beta/_next/static/chunks/121nt-2o0q7xz.js"],"ViewportBoundary"]
+a:I[97367,["/mtus-plus-beta/_next/static/chunks/121nt-2o0q7xz.js"],"MetadataBoundary"]
+b:I[27201,["/mtus-plus-beta/_next/static/chunks/121nt-2o0q7xz.js"],"IconMark"]
+d:I[39756,["/mtus-plus-beta/_next/static/chunks/121nt-2o0q7xz.js"],"default"]
+e:I[37457,["/mtus-plus-beta/_next/static/chunks/121nt-2o0q7xz.js"],"default"]
+8:X
+10:X
+10:C
+0:{"buildId":"vjPaaWzCcbZiMByE17vUY","data":[{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"px-5 pb-16 pt-16 text-center sm:pb-20 sm:pt-24","children":[["$","p",null,{"data-reveal":true,"className":"text-[17px] font-semibold text-ink-2","children":"MTUS+"}],["$","h1",null,{"data-reveal":true,"style":{"--reveal-delay":"80ms"},"className":"mx-auto mt-2 max-w-3xl text-[44px] font-semibold leading-[1.05] tracking-[-0.025em] text-balance sm:text-[72px]","children":"How To Cite"}],["$","p",null,{"data-reveal":true,"style":{"--reveal-delay":"160ms"},"className":"mx-auto mt-5 max-w-xl text-[21px] leading-snug text-ink-2 text-balance sm:text-[24px]","children":"Cite the release you used."}],"$undefined"]}],["$","$L2",null,{}],"$undefined",["$","div",null,{"className":"mx-auto w-full max-w-[820px] px-5 pb-28","children":["",["$","div",null,{"data-reveal":true,"className":"rounded-[28px] bg-surface-2 px-7 py-8 text-center ","children":[["$","p",null,{"className":"text-[19px] font-semibold tracking-tight","children":"More details will be provided with the new release."}],["$","p",null,{"className":"mt-2 text-[15px] text-ink-2","children":["MTUS",["$","span",null,{"className":"text-brand","children":"+"}]," Version 1 is released on ","21 December 2026","."," ",["$","$L3",null,{"href":"/data#release","className":"text-link hover:underline","children":["Countdown",["$","span",null,{"aria-hidden":"true","children":" ›"}]]}]]}]]}],false]}]],[["$","script","script-0",{"src":"/mtus-plus-beta/_next/static/chunks/10yicgvhds2d0.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"How To Cite · MTUS+"}],["$","meta","1",{"name":"description","content":"Cite the release you used."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"MTUS+ · Multinational Time Use Study Plus"}],["$","meta","4",{"property":"og:description","content":"MTUS+ is the redesigned Multinational Time Use Study: harmonised time-use diary microdata from around the world, keeping far more of each original survey's detail."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"MTUS+ · Multinational Time Use Study Plus"}],["$","meta","8",{"name":"twitter:description","content":"MTUS+ is the redesigned Multinational Time Use Study: harmonised time-use diary microdata from around the world, keeping far more of each original survey's detail."}],["$","link","9",{"rel":"icon","href":"/mtus-plus-beta/icon.svg?icon.0n7x7k5jy0hvi.svg","sizes":"any","type":"image/svg+xml"}],["$","$Lb","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$8","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+6:null
+12:true
+8:300
+8:C
+11:0
+c:"$undefined"
+f:"$undefined"
+7:"$undefined"

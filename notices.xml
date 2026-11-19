@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MTUS+ notices</title>
+    <link>https://qizhou-0910.github.io/mtus-plus-beta/notices/</link>
+    <description>Releases, known issues and corrections for Multinational Time Use Study Plus.</description>
+    <language>en-gb</language>
+    <item>
+      <title>Notice: Website beta, and the MTUS+ Version 1 release date</title>
+      <link>https://qizhou-0910.github.io/mtus-plus-beta/notices/#beta-release-date</link>
+      <guid isPermaLink="false">mtus-plus-beta-release-date</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>MTUS+ Version 1 will be released on 21 December 2026. Until then this beta shows each page's introduction and pictures, with more details to follow at the release. New on the home page: how the day differs between weekdays and weekends.</description>
+    </item>
+    <item>
+      <title>Notice: The MTUS family, community pages and a world survey map</title>
+      <link>https://qizhou-0910.github.io/mtus-plus-beta/notices/#mtus-family-pages</link>
+      <guid isPermaLink="false">mtus-plus-mtus-family-pages</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>This preview now shows the wider MTUS family around MTUS+: the legacy MTUS, planned specialised collections, MTUS Gateway for data that cannot be distributed, and MTUS Add-ons. New community pages cover the project's history, people, Advisory Board and collaborations, and the Surveys page has a world map of time-use surveys.</description>
+    </item>
+    <item>
+      <title>Release: Public Source Inventory published</title>
+      <link>https://qizhou-0910.github.io/mtus-plus-beta/notices/#source-inventory-published</link>
+      <guid isPermaLink="false">mtus-plus-source-inventory-published</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <description>The MTUS+ Source Inventory lists the 124 original surveys harmonised in MTUS and MTUS+ — 17 new in MTUS+ and 107 carried over from MTUS — with their producers, distributors, identifiers, access conditions and where to find the original data and documentation. Browse it on the Surveys page or download it as an Excel workbook.</description>
+    </item>
+    <item>
+      <title>Known issue: Belgium 1999 and 2005: clock times under review</title>
+      <link>https://qizhou-0910.github.io/mtus-plus-beta/notices/#belgium-clock-times</link>
+      <guid isPermaLink="false">mtus-plus-belgium-clock-times</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <description>In the legacy episode files, episode clock times for these two surveys appear shifted: far fewer people are asleep in the early hours than in every other survey. Both are left out of the day charts on this site until the times have been checked.</description>
+    </item>
+    <item>
+      <title>Known issue: Legacy surveys use interim activity codes</title>
+      <link>https://qizhou-0910.github.io/mtus-plus-beta/notices/#interim-activity-codes</link>
+      <guid isPermaLink="false">mtus-plus-interim-activity-codes</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <description>For surveys carried over from earlier MTUS releases, ICATUS and HETUS codes are derived from the CTUR 69-activity scheme through crosswalks, not from the original national codes. Detailed ICATUS categories for work and own-use production often cannot be recovered. These surveys will be re-harmonised from their original microdata over future releases.</description>
+    </item>
+    <item>
+      <title>Notice: MTUS+ website preview</title>
+      <link>https://qizhou-0910.github.io/mtus-plus-beta/notices/#preview</link>
+      <guid isPermaLink="false">mtus-plus-preview</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <description>This site previews MTUS+ Version 1, which is in preparation.</description>
+    </item>
+  </channel>
+</rss>
